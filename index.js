@@ -14,10 +14,10 @@ const port = 3000;
 
 app.use(express.static('public'));
 
-const yourUsername = "aki";
-const yourPassword = "wowaki";
-const yourAPIKey = "4421b5bc-a11b-4deb-b9c2-c132ddf11df9";
-const yourBearerToken = "06e755dd-e860-433b-b7c6-b62e15583fff";
+const yourUsername = "";
+const yourPassword = "";
+const yourAPIKey = "";
+const yourBearerToken = "";
 
 app.get('/', (req, res) => {
     res.render("index.ejs");
