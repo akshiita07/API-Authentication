@@ -34,10 +34,10 @@ app.set('view engine', 'ejs');
 #### 3. Authentication Variables:
 - **Credentials and Tokens**: Defined for basic authentication, API key authentication, and bearer token authentication.
 ```javascript
-const yourUsername = "aki";
-const yourPassword = "wowaki";
-const yourAPIKey = "4421b5bc-a11b-4deb-b9c2-c132ddf11df9";
-const yourBearerToken = "06e755dd-e860-433b-b7c6-b62e15583fff";
+const yourUsername = "";
+const yourPassword = "";
+const yourAPIKey = "";
+const yourBearerToken = "";
 ```
 
 #### 4. Routes Implementation:
