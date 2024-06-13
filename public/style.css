@@ -1,0 +1,15 @@
+.container{
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.soln{
+    margin-top: 0;
+    /* border: 2px solid black; */
+    font-size: 1rem;
+    text-align: center;
+}
